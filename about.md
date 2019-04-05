@@ -1,56 +1,23 @@
-<main id="content" role="main">
-  <div class="grid-row">
-    <div class="column-two-thirds">
-      
-<div class="govuk-breadcrumbs ">
-  <ol>
-    <li><a href="/coe/">Service Delivery Manual</a></li>
-    
-    
-      <li class="active">
-        
-          About
-        
-      </li>
-    
-  </ol>
-</div>
+#About
+This website is run by the Centre of Excellence team in Home Office Digital, Data and Technology (DDaT).
 
+The Centre of Excellence is a group of digital, technology and delivery specialists. It’s led by the DDaT heads of profession, who help Home Office teams create and run great services that meet government standards.</p>
 
-      <h1 class="heading-xlarge">
-        
-        About
-      </h1>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="column-two-thirds">
-  <p>This website is run by the Centre of Excellence team in Home Office Digital, Data and Technology (DDaT).</p>
+This website is the place where DDaT delivery teams can find and publish information on building and running services at the Home Office.
 
-<p>The Centre of Excellence is a group of digital, technology and delivery specialists. It’s led by the DDaT heads of profession, who help Home Office teams create and run great services that meet government standards.</p>
+*** id="how-to-publish-to-the-service-delivery-manual">How to publish to the Service Delivery Manual
 
-<p>This website is the place where DDaT delivery teams can find and publish information on building and running services at the Home Office.</p>
+Your content must:
 
-<h3 id="how-to-publish-to-the-service-delivery-manual">How to publish to the Service Delivery Manual</h3>
+- have a valid user need
+- be approved by the appropriate head of profession
+- have an owner who will keep the content up to date and be a point of contact
 
-<p>Your content must:</p>
+A content designer will work with you to get your content in the right place and in the right style.
+Email <a href="mailto:contentdesigners@digital.homeoffice.gov.uk">contentdesigners@digital.homeoffice.gov.uk</a> with your content or questions.
 
-<ul>
-  <li>have a valid user need</li>
-  <li>be approved by the appropriate head of profession</li>
-  <li>have an owner who will keep the content up to date and be a point of contact</li>
-</ul>
+You are always welcome to (https://ukhomeoffice.github.io/coe/contact)send feedback
 
-<p>A content designer will work with you to get your content in the right place and in the right style.</p>
-
-<p>Email <a href="mailto:contentdesigners@digital.homeoffice.gov.uk">contentdesigners@digital.homeoffice.gov.uk</a> with your content or questions.</p>
-
-<p>You are always welcome to <a href="https://ukhomeoffice.github.io/coe/contact/">send feedback</a>.</p>
-
-    </div>
-  </div>
-
-</main>
 
 
 ## Welcome to GitHub Pages
